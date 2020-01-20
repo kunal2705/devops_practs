@@ -1,3 +1,7 @@
 hello.. this is our first practical of devops
 hi
+<<<<<<< HEAD
 helloo
+=======
+newly added
+>>>>>>> a577f88c9efcc8bedaf366dd0e908341fc289797
